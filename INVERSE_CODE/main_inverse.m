@@ -32,7 +32,7 @@ end
 %% load holograms
 if isSim==true
     %load generated hologram data which is created by the 16840 slices, used as the measurement.
-    holo_name = strcat('..\holograms\simulatedHologram\density', num2str(density), '_dn', num2str(dn),'.mat');
+    holo_name = strcat('..\holograms\simulatedHologram\sampleHolograms\density', num2str(density), '_dn', num2str(dn),'.mat');
     load(holo_name);
     meas_g = abs(meas_g).^2;     %Note: the simulated result is complex field
 else
