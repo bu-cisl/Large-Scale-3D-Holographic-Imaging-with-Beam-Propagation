@@ -30,6 +30,6 @@ reconstructed simulated particles: results/sampleResults/simulation/density1.6_d
 experimental captuered hologram: holograms/experimetnalHologram/density1.60.mat
 reconstruction experimental particles: results/experimental/density1.6.tiff   (need to extract files from .zip file)
 
-#### Data Accessibility
-More data is shared in the GoogleDrive:
+### Data Accessibility
+More data is in object.zip, holograms.zip and results.zip
 
