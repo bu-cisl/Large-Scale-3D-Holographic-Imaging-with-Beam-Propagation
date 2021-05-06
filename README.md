@@ -13,6 +13,6 @@ combined with sparse regularization that enables recovering dense 3D particles o
 
 ### Overview Figure
 <p align="center">
-  <img src="/figure/Figure1.pdf">
+  <img src="/figure/Figure1.png">
 </p>
 
