@@ -28,7 +28,7 @@ ground truth object for the reconstruction object (with dz = lambda/16*100): obj
 simulated sample hologram: holograms/simulatedHologram/density1.6_dn0.26.mat\
 reconstructed simulated particles: results/sampleResults/simulation/density1.6_dn0.26.tiff   (need to extract files from .zip file)\
 experimental captuered hologram: holograms/experimetnalHologram/density1.60.mat\
-reconstruction experimental particles: results/experimental/density1.6.tiff   (need to extract files from .zip file)\
+reconstruction experimental particles: results/experimental/density1.6.tiff   (need to extract files from .zip file)
 
 ### Data Accessibility
 More data is in object.zip, holograms.zip and results.zip
