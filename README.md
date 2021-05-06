@@ -16,3 +16,11 @@ combined with sparse regularization that enables recovering dense 3D particles o
   <img src="/figure/Figure1.png">
 </p>
 
+### How to use code
+Forward model:
+run the code main.m in the FORWARD_CODE folder. 
+Reconstruction:
+run the code main-inverse.m in the INVERSE_CODE folder.
+
+### Access to more date
+More data with different densities is stoered in the GoogleDrive:
