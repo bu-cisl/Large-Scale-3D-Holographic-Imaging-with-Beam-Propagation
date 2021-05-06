@@ -17,7 +17,8 @@ combined with sparse regularization that enables recovering dense 3D particles o
 </p>
 
 ### How to use code
-Forward model:run the code main.m in the FORWARD_CODE folder.\  Reconstruction:run the code main-inverse.m in the INVERSE_CODE folder.
+Forward model:run the code main.m in the FORWARD_CODE folder.\  
+Reconstruction:run the code main-inverse.m in the INVERSE_CODE folder.
 
 ### Data
 simulated object with dz = lambda/16: object/simulatedData/density_1.6\   
