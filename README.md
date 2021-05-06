@@ -13,6 +13,23 @@ combined with sparse regularization that enables recovering dense 3D particles o
 
 ### Overview Figure
 <p align="center">
-  <img src="/figure/Figure1.pdf">
+  <img src="/figure/Figure1.png">
 </p>
+
+### How to use code
+Forward model:
+run the code main.m in the FORWARD_CODE folder. 
+Reconstruction:
+run the code main-inverse.m in the INVERSE_CODE folder.
+
+### Data
+simulated object with dz = lambda/16: object/simulatedData/density_1.6   
+ground truth object for the reconstruction object (with dz = lambda/16*100): object/simulatedDownsampledData/density_1.6.mat
+simulated sample hologram: holograms/simulatedHologram/density1.6_dn0.26.mat
+reconstructed simulated particles: results/sampleResults/simulation/density1.6_dn0.26.tiff   (need to extract files from .zip file)
+experimental captuered hologram: holograms/experimetnalHologram/density1.60.mat
+reconstruction experimental particles: results/experimental/density1.6.tiff   (need to extract files from .zip file)
+
+#### Data Accessibility
+More data is shared in the GoogleDrive:
 
