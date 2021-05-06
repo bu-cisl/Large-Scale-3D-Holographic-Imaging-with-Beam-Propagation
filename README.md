@@ -1,10 +1,10 @@
 # Large-Scale-Particle-3D-Imaging-with-Beam-Propagation-Method(BPM)
-MatLab implementation of paper **"Large-scale holographic particle 3D imaging with the beam propagation model"**. We provide the Beam Propagation method forward model and the reconstruction algorithm code, the simulated sample object, hologram, reconstructed particles and the sample experimental captured hologram, reconstruction result.
+MatLab implementation of paper [*Large-scale holographic particle 3D imaging with the beam propagation model*](https://arxiv.org/abs/2103.05808). We provide the Beam Propagation method forward model and the reconstruction algorithm code, the simulated sample object, hologram, reconstructed particles and the sample experimental captured hologram, reconstruction result.
 
 ### Citation
 If you find this project useful in your research, please consider citing our paper:
 
-[**Wang, Hao, et al. "Large-scale holographic particle 3D imaging with the beam propagation model." arXiv preprint arXiv:2103.05808 (2021).](https://arxiv.org/abs/2103.05808)
+[Wang, Hao, et al. "Large-scale holographic particle 3D imaging with the beam propagation model. arXiv preprint arXiv:2103.05808 (2021).](https://arxiv.org/abs/2103.05808)
 
 
 ### Abstract
@@ -17,11 +17,11 @@ combined with sparse regularization that enables recovering dense 3D particles o
 </p>
 
 ### How to use code
-Forward model:run the code main.m in the FORWARD_CODE folder.\  
-Reconstruction:run the code main-inverse.m in the INVERSE_CODE folder.
+Forward model: [main.m](FORWARD_CODE/main.m)<br>
+Reconstruction: [main_inverse.m](INVERSE_CODE/main_inverse.m)
 
 ### Data
-simulated object with dz = lambda/16: object/simulatedData/density_1.6\   
+simulated object with dz = lambda/16: object/simulatedData/density_1.6\
 ground truth object for the reconstruction object (with dz = lambda/16*100): object/simulatedDownsampledData/density_1.6.mat\
 simulated sample hologram: holograms/simulatedHologram/density1.6_dn0.26.mat\
 reconstructed simulated particles: results/sampleResults/simulation/density1.6_dn0.26.tiff   (need to extract files from .zip file)\
