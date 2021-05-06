@@ -23,7 +23,7 @@ Reconstruction:
 run the code main-inverse.m in the INVERSE_CODE folder.
 
 ### Data
-simulated object with dz = lambda/16: object/simulatedData/density_1.6
+simulated object with dz = lambda/16: object/simulatedData/density_1.6\n
 ground truth object for the reconstruction object (with dz = lambda/16*100): object/simulatedDownsampledData/density_1.6.mat
 simulated sample hologram: holograms/simulatedHologram/density1.6_dn0.26.mat
 reconstructed simulated particles: results/sampleResults/simulation/density1.6_dn0.26.tiff   (need to extract files from .zip file)
