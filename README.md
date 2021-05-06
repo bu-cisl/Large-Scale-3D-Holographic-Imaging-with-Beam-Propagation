@@ -18,7 +18,7 @@ combined with sparse regularization that enables recovering dense 3D particles o
 
 ### How to use code
 Forward model:
-run the code main.m in the FORWARD_CODE folder.\ 
+run the code main.m in the FORWARD_CODE folder.
 Reconstruction:
 run the code main-inverse.m in the INVERSE_CODE folder.
 
