@@ -4,7 +4,7 @@ MatLab implementation of paper [*Large-scale holographic particle 3D imaging wit
 ### Citation
 If you find this project useful in your research, please consider citing our paper:
 
-[Wang, Hao, et al. "Large-scale holographic particle 3D imaging with the beam propagation model. Opt. Express *29*(11), 17159-17172 (2021).](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-11-17159&id=451212)
+[Wang, Hao, et al. "Large-scale holographic particle 3D imaging with the beam propagation model. Opt. Express **29**(11), 17159-17172 (2021).](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-11-17159&id=451212)
 
 
 ### Abstract
