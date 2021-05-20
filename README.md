@@ -1,10 +1,10 @@
 # Large Scale Holographic Particle 3D Imaging with Beam Propagation Method(BPM)
-MatLab implementation of paper [*Large-scale holographic particle 3D imaging with the beam propagation model*](https://arxiv.org/abs/2103.05808). We provide the Beam Propagation method forward model and the reconstruction algorithm code, the simulated sample object, hologram, reconstructed particles and the sample experimental captured hologram, reconstruction result.
+MatLab implementation of paper [*Large-scale holographic particle 3D imaging with the beam propagation model*](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-11-17159&id=451212). We provide the Beam Propagation method forward model and the reconstruction algorithm code, the simulated sample object, hologram, reconstructed particles and the sample experimental captured hologram, reconstruction result.
 
 ### Citation
 If you find this project useful in your research, please consider citing our paper:
 
-[Wang, Hao, et al. "Large-scale holographic particle 3D imaging with the beam propagation model. arXiv preprint arXiv:2103.05808 (2021).](https://arxiv.org/abs/2103.05808)
+[Wang, Hao, et al. "Large-scale holographic particle 3D imaging with the beam propagation model. Opt. Express *29*(11), 17159-17172 (2021).](https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-11-17159&id=451212)
 
 
 ### Abstract
